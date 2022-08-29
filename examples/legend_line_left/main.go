@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/wcharczuk/go-chart/v2"
+	"github.com/d-Rickyy-b/go-chart-x/v2/pkg/chart"
 	"os"
 	"time"
 )
