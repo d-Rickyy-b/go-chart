@@ -1,5 +1,6 @@
 go-chart-x
 ========
+[![Go Reference](https://pkg.go.dev/badge/github.com/d-Rickyy-b/go-chart-x/v2.svg)](https://pkg.go.dev/github.com/d-Rickyy-b/go-chart-x/v2)
 [![Go Report Card](https://goreportcard.com/badge/github.com/wcharczuk/go-chart)](https://goreportcard.com/report/github.com/wcharczuk/go-chart)
 
 The go-chart-x package is a clone of the great [go-chart](https://github.com/wcharczuk/go-chart) package by @wcharczuk.
